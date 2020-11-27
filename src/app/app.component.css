@@ -1,0 +1,346 @@
+body
+{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: raleway;
+}
+.alt
+{
+    background-color: transparent;
+    border: 0;
+    box-shadow: none;
+    height: 3.25em;
+    line-height: 10.25em;
+    position: absolute;
+    color: #fff;
+
+}
+ 
+
+.strong
+{
+    color: #484848;
+    font-weight: 700;
+   
+}
+
+h1 strong
+{
+    line-height: 11rem;
+    padding-left: 82px;
+    font-size: 21px;
+}
+
+.alt .navi
+{
+    top: 0;
+    position: absolute;
+    left: 58rem;
+}
+
+.navi ul
+{
+    list-style: none;
+    margin: 0;
+    padding-left: 0;
+    display: flex;
+}
+
+.navi ul li
+{
+    border-radius: 4px;
+    display: inline-block;
+    margin-left: 2.5em;
+    padding-left: 0;
+}
+
+.navi ul li a
+{
+   text-decoration: none;
+   font-size: 20px;
+   padding: 8px;
+   color:#f5efe4;
+}
+.navi ul li a:hover
+{
+color: #fff;
+}
+
+
+
+.banner
+{
+    padding: 16em 0 13em 0;
+    text-align: center;
+    background-image: url(../assets/overlay.png),url(../assets/banner.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center top;
+    line-height: 1.75;
+    text-align: center;
+}    
+
+.banner p
+{
+    color: #aaa;
+    font-size: 1.5em;
+    margin-bottom: 1.75em;
+    text-transform: uppercase;
+}
+
+.banner h1
+{
+    font-size: 3.5rem;
+    color: #fff;
+    font-weight: 900;
+}
+
+.my
+{
+    PADDING: 10PX 31PX;
+    FONT-SIZE: 23PX;
+}
+
+/* section-3*/
+
+.wrapper {
+    padding: 6em 0 4em 0;
+}
+
+.container {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.row
+{
+    margin: 0 0 -1px -4em;
+}
+
+.row:after, .row:before {
+    content: '';
+    display: block;
+    clear: both;
+    height: 0;
+}
+
+header.major {
+    margin: 2px 0 7em 56px;
+    padding-left: 4px;
+}
+
+header.major h2 {
+    font-size: 3em;
+    display: inline-block;
+    margin: 0 0 0.8em;
+    font-weight: 900;
+    line-height: 68px;
+    width: 95%;
+   
+}
+
+header.major p
+{
+    font-size: 1.7em;
+}
+
+.share
+{
+    width: 50%;
+}
+
+.share p
+
+{
+    font-size: 19px;
+}
+
+.share-1
+{
+    width: 50%;
+}
+
+.share-1 p
+{
+    margin-top: 0;
+    margin-bottom: 1rem;
+    padding-left: 45px;
+    font-size: 19px;
+    width: 94%;
+}
+
+
+/* sec-3*/
+.style2
+{
+    background-color: #f6f6f6;
+    width: 100%;
+}
+
+.se2-img h3
+{
+    background-color: #fff;
+    box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.15);
+    display: block;
+    padding: 2em 1em;
+}
+
+.se2-img h3
+{
+    background-color: #fff;
+    box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.15);
+    display: block;
+    padding: 2em 1em;
+}
+
+.fit h3
+{
+    background-color: #fff;
+    box-shadow: 0px 0.0375em 0.125em 0px rgba(0, 0, 0, 0.15);
+    display: block;
+    padding: 2em 1em;
+}
+
+.small
+{
+display: flex;
+}
+
+.se2-img
+{
+    padding-left: 85px;
+}
+
+.change
+{
+    text-align: center;
+    padding: 39px;
+}
+
+.change h2
+{
+    color: #484848;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.change p
+{
+    font-size: 1.7em;
+    font-weight: 100;
+}
+
+.first
+{
+    padding: 21px 83px;
+    left: 20px;
+    top: 79px;
+    position: relative;
+    left: 16rem;
+}
+
+.second
+{
+    padding: 21px 83px;
+    left: 20px;
+    top: 13px;
+    position: relative;
+    left: 40rem;
+}
+
+li{
+    list-style: none;
+}
+
+.section-con
+{
+    padding: 7rem 1rem 6rem 12rem;
+}
+
+.section-con h2
+{
+    font-size: 3rem;
+    font-weight: bolder;
+
+}
+
+.section-con p{
+    font-size: 2rem;
+    font-weight: 200;
+}
+
+.image-sty img
+{
+    left: 33rem;
+    border-radius: 500px;
+    position: relative;
+    border: solid 0.5em rgba(144, 144, 144, 0.25);
+    margin-left: 20rem;
+}
+
+.contant 
+{
+    width: 27%;
+    text-align: center;
+    position: relative;
+    left: 273px;
+    top: -152px;
+}
+
+
+.image-sty .left-one
+{
+    position: relative;
+    left: 48rem;
+    top: -43rem;
+}
+
+.image-sty .left-two
+{
+    position: relative;
+    left: 48rem;
+    top: -43rem;
+}
+
+.con
+{
+    background-attachment: fixed;
+    background-image:url(../assets/banner.jpg);
+    background-position: center center;
+    background-size: cover;
+    opacity: 0.94;
+    
+    
+}
+
+.con h1
+{
+    font-size: 3rem;
+    color: #fff;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 6rem;
+    
+}
+
+.con p
+{
+    font-size: 1.7em;
+    color: #aaa;
+    text-align: center;
+    color: #ccc5c5;
+    padding-top: 2rem;
+    padding: 24px;
+}
+.three
+
+{
+ 
+    align-items: center;
+    margin-left: 40rem;
+    margin-top: 23px;
+    margin-bottom: 33px;
+    margin-top: -1rem;
+    padding: 25px 51px 19px 42px;
+}

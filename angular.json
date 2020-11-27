@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "car-app"
+  "defaultProject": "car-app",
+  "cli": {
+    "analytics": "4661e438-edad-4a1b-88c4-9541fcfa04fd"
+  }
 }
